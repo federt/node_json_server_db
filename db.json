@@ -1,0 +1,83 @@
+{
+  "professor": [
+    {
+      "name": "Mickey",
+      "lastname": "Mouse",
+      "subjects": [
+        {
+          "name": "NodeJS"
+        },
+        {
+          "name": "Java"
+        },
+        {
+          "name": "Javascript"
+        }
+      ],
+      "id": "9a33"
+    },
+    {
+      "id": "4764",
+      "name": "Googy",
+      "lastname": "Goof",
+      "subjects": [
+        {
+          "name": "ADA"
+        },
+        {
+          "name": "Cobol"
+        }
+      ]
+    },
+    {
+      "id": "ab0e",
+      "name": "Googy",
+      "lastname": "Goof",
+      "subjects": [
+        {
+          "name": "ADA"
+        },
+        {
+          "name": "Cobol"
+        },
+        {
+          "name": "Pascal"
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "name": "Pluto",
+      "lastname": "Dog",
+      "score": 7,
+      "id": "eefe"
+    },
+    {
+      "name": "Donald",
+      "lastname": "Duck",
+      "score": 4,
+      "id": "0b34"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Javascript",
+      "duration": 6,
+      "difficulty": "medium",
+      "id": "94da"
+    },
+    {
+      "name": "Java",
+      "duration": 12,
+      "difficulty": "medium",
+      "id": "ac1a"
+    },
+    {
+      "name": "NodeJS",
+      "duration": 7,
+      "difficulty": "medium",
+      "id": "11f4"
+    }
+  ]
+}
